@@ -15,7 +15,7 @@ To submit, you may use one of the following pipelines:
   - solve the notebook
   - last editing time is submission time by default
   
-2. using Git from playpen:
+2. using Git from playpen ([GUIDE](https://docs.google.com/presentation/d/1gnIhJGYvrnWz9ynhthu8nArwktUhlm2fyMZwknUXtNU/edit?usp=sharing))
   - `git remote -v` # check if the output has origin (fetch & push) and upstream (fetch & push)
   - note: origin should be your fork & upstream should be this repo
   - if your origin is this repo, fix it with `git remote set-url origin git@github.com:STUDENT_USERNAME/ap155lab_ay26271.git` # change accordingly
